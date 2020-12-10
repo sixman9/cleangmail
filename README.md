@@ -1,6 +1,6 @@
 # Using Node.js and Gmail API to delete the emails
 
-Generate your configuration file by using the [Node.js Quickstart](https://developers.google.com/calendar/quickstart/nodejs) guide.
+Generate your configuration file by using the [Node.js Quickstart](https://developers.google.com/gmail/api/quickstart/nodejs) guide.
 
 Save the configuration file in the same directory(clean_gmail).
 Update filterlist.txt file with your filters
