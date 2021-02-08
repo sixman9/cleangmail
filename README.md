@@ -14,3 +14,5 @@ Update filterlist.txt file with your filters
 After following the setup instructions, run the program
 
 `npm start`
+
+Based on an article and code found at [How I cleaned my Gmail using Node.js and Gmail API](https://medium.com/front-end-weekly/how-i-cleaned-my-gmail-using-node-js-and-gmail-api-8de34f45970d) by Dileep Hariharan.
